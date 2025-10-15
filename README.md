@@ -52,10 +52,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rta-academy/rta-academy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="center">🙌 Credits & Support</h2>
 
 ###
